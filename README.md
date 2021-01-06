@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://static.wixstatic.com/media/34168b_d90dce54c59542ffa482c91aacbb6a32~mv2.gif" width="30px">
 
 <!--
 **sxnch/sxnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

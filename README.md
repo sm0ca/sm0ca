@@ -1,4 +1,6 @@
-### Hi there 👋
+### Allo! Welcome to my corner of the internet! ✨
+
+While you're still here, why not check out some mini projects I've made: https://repl.it/@sxnch
 
 <!--
 **sxnch/sxnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

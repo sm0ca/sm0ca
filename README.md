@@ -1,4 +1,4 @@
-### Allo! Welcome to my corner of the internet! <img src="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="30" title="^_^">
+## Allo! Welcome to my corner of the internet! <img src="https://cliply.co/wp-content/uploads/2019/05/391905030_SPARKLES_400px.gif" width="25" title="^_^">
 
 While you're still here, why not check out some mini projects I've made: https://repl.it/@sxnch
 

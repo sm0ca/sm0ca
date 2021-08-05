@@ -2,6 +2,8 @@
 
 While you're still here, why not check out some mini projects I've made: https://repl.it/@sxnch
 
+<img src="https://www.codewars.com/users/sxnch/badges/small">
+
 <!--
 **sxnch/sxnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

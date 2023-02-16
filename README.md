@@ -1,6 +1,6 @@
 ## Allo! Welcome to my corner of the internet!
 
-While you're still here, why not check out some mini projects I've made: https://repl.it/@sxnch
+I hope you find something interesting in here. Thanks for dropping by!
 
 <img src="https://www.codewars.com/users/sm0ca/badges/small">
 

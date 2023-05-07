@@ -4,6 +4,8 @@ I hope you find something interesting in here. Thanks for dropping by!
 
 <img src="https://www.codewars.com/users/sm0ca/badges/small">
 
+*Profile picture credit: [@oi.flop](https://instagram.com/oi.flop?igshid=NTc4MTIwNjQ2YQ==)*
+
 <!--
 **sxnch/sxnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
